@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CP2102N_PCB.PcbDoc   9/9/2024  2:42:35 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CP2102N_PCB-RoundHoles.TXT
+ASCII SlotHoles File : CP2102N_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             164       PTH        252.86mm (9.96inch)
+T2      1mm (39mil)                                               Slot              2         PTH        25.90mm (1.02inch)
+T3      1.1mm (43mil)           +0mm (0mil)/-0.25mm (10mil)       Round             5         PTH        10.16mm (0.40inch)
+T4      1.1mm (43mil)                                             Round             2         NPTH       4.50mm (0.18inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              173
+
+Total Processing Time (hh:mm:ss) : 00:00:00

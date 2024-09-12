@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\uqurk\Desktop\Projects\USB-to-UART\CP2102_USB-TO-UART\Project Outputs for CP2102_USB-TO-UART\Pick Place\Pick Place for CP2102N_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/09/24
+Time:       14:42
+Revision:   a8364cb18078906b83deaf43c1150894d2db4d6d
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                 
+U1         CP2102N-A02-GQFN24 TopLayer FP-CP2102N-A02-GQFN24-MFG 578.553       294.104       0        "IC USB TO UART BRIDGE QFN24"                                                                                               
+S1         EVP-AWCD2A         TopLayer PANASONIC_EVPAW           372.047       509.842       0        "SWITCH TACTILE SPST-NO 0.02A 15V"                                                                                          
+R9         47k5               TopLayer Resistor_0402             582.766       107.087       90       "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R8         22k1               TopLayer Resistor_0402             541.516       107.087       90       "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R7         1k                 TopLayer Resistor_0402             665.266       107.087       90       "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R6         470R               TopLayer Resistor_0402             754.527       138.780       180      "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R5         470R               TopLayer Resistor_0402             754.527       239.173       180      "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R4         470R               TopLayer Resistor_0402             754.527       338.583       180      "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R3         470R               TopLayer Resistor_0402             754.921       45.276        180      "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R2         10k                TopLayer Resistor_0402             754.527       437.008       180      "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+R1         100R               TopLayer Resistor_0402             624.016       107.087       270      "SMD Chip Resistor, 0402 [1005 Metric], Thick Film, General Purpose"                                                        
+J2         M20-9960545        TopLayer HARWIN_M20-9960545        984.252       289.365       90       "CONN HEADER R/A 5POS 2.54MM"                                                                                               
+J1         480-37-1000        TopLayer MOLX-480-37-1000_V        161.417       299.213       270      "Universal Serial Bus (USB) Shielded I/O Plug, Type A, Right Angle Connector, 1.5 A, -20 to 85 degC, 4-Pin SMD, RoHS, Tray" 
+IC1        BS250FTA           TopLayer DIODES_SOT-23-3           562.992       514.764       180      "MOSFET P-CH 45V 90MA SOT23-3"                                                                                              
+D8         Red                TopLayer LED_0402_1005_RED         755.905       189.365       180      "LED RED CLEAR 0402 SMD"                                                                                                    
+D7         Blue               TopLayer LED_0402_1005_BLUE        755.905       289.365       180      "LED BLUE CLEAR 0402 SMD"                                                                                                   
+D6         Green              TopLayer LED_0402_1005_GREEN       755.905       389.365       180      "LED GREEN CLEAR 0402 SMD"                                                                                                  
+D5         Green              TopLayer LED_0402_1005_GREEN       755.905       89.365        180      "LED GREEN CLEAR 0402 SMD"                                                                                                  
+D4         UCLAMP5031PW.C     TopLayer 0402                      307.087       352.362       270      "5V ESD & EOS PROTECTION"                                                                                                   
+D3         UCLAMP5031PW.C     TopLayer 0402                      307.087       246.063       90       "5V ESD & EOS PROTECTION"                                                                                                   
+D2         UCLAMP5031PW.C     TopLayer 0402                      307.087       88.583        90       "5V ESD & EOS PROTECTION"                                                                                                   
+D1         MMBZ5226BT-7-F     TopLayer DIODES_SOT-523            715.551       516.732       90       "DIODE ZENER 3.3V 150MW SOT523"                                                                                             
+C6         1u                 TopLayer CAP_CER_0402              861.327       444.882       180      ""                                                                                                                          
+C5         1u                 TopLayer CAP_CER_0402              861.327       137.795       180      ""                                                                                                                          
+C4         1u                 TopLayer CAP_CER_0402              457.677       226.378       90       ""                                                                                                                          
+C3         1u                 TopLayer CAP_CER_0402              500.266       107.087       90       ""                                                                                                                          
+C2         4u7                TopLayer CAP_TANT_0805             375.000       200.000       270      ""                                                                                                                          
+C1         4u7                TopLayer CAP_TANT_0805             440.945       125.197       90       ""                                                                                                                          

@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [CP2102N_PCB.PcbDoc]
+   Generated File[CP2102N_PCB.GTL]
+   Generated File[CP2102N_PCB.GBL]
+   Generated File[CP2102N_PCB.GTO]
+   Generated File[CP2102N_PCB.GBO]
+   Generated File[CP2102N_PCB.GTS]
+   Generated File[CP2102N_PCB.GBS]
+   Generated File[CP2102N_PCB.GTP]
+   Generated File[CP2102N_PCB.GBP]
+   Generated File[CP2102N_PCB.GM]
+   Generated File[CP2102N_PCB.GBR1]
+   Generated File[CP2102N_PCB.GBR2]
+   Generated File[CP2102N_PCB.EXTREP]
+   Generated File[CP2102N_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 2:42:39 PM On 9/9/2024
